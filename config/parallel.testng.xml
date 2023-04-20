@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MyTest" parallel="methods">
+    <test name="MyTest" parallel="methods">
+        <classes>
+            <class name="org.example.MyTest" />
+        </classes>
+    </test>
+</suite>
